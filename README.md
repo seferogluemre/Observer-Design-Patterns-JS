@@ -1,1 +1,1 @@
-JavaScript OBSERVER Design Pattern Examples
+JavaScript Observer Design Pattern Examples
